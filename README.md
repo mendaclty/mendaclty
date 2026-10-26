@@ -20,22 +20,18 @@
   <a href="https://github.com/mendaclty?tab=followers"><img src="https://img.shields.io/github/followers/mendaclty?label=Followers&style=flat-square&logo=github&color=1F6FEB" alt="GitHub followers"></a>
   <a href="https://github.com/mendaclty"><img src="https://komarev.com/ghpvc/?username=mendaclty&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views"></a>
   <!-- 不想公开邮箱就删掉下面这一行 -->
-  <a href="mailto:1129854161@qq.com"><img src="https://img.shields.io/badge/Email-1129854161%40qq.com-A371F7?style=flat-square&logo=tencentqq&logoColor=white" alt="Email"></a>
+  <!--<a href="mailto:1129854161@qq.com"><img src="https://img.shields.io/badge/Email-1129854161%40qq.com-A371F7?style=flat-square&logo=tencentqq&logoColor=white" alt="Email"></a> -->
 </p>
 
 ## ❯ whoami
+  
+> Yes工程师。
 
-> 白天写 Java 上位机，晚上读 UE 的汇编。  
-> 一个把程序拆开看、再按自己的方式装回去的软件工程师。
-
-- 🔬 **逆向 / Reverse Engineering** — C/C++、Unreal Engine（UE4 / UE5）引擎结构与逻辑分析、静态与动态二进制分析
-- 🖥️ **工程 / Host Software** — Java 上位机开发：设备通讯、数据采集、工业软件
-- 🧩 **顺手玩** — Android Hook（Xposed / LSPosed）、Windows 调试、协议与坐标逆向
-- 🌱 **最近在啃** — UE5 引擎底层、游戏安全
-- 📮 **聊两句** — Issues 或邮件都行，欢迎交流逆向与工程实践
+- 🔬 **逆向 / Reverse Engineering** — C/C++、Unreal Engine（UE4 / UE5）引擎结构与逻辑分析、静态与动态二进制分析......
+- 🖥️ **工程 / Host Software** — Java 上位机开发：对接下位机通讯，制作工业软件......
 
 > [!NOTE]
-> 所有逆向与 Hook 相关的研究仅用于学习、兼容性分析与安全测试，请在合法合规、已获授权的前提下使用。
+> 所有逆向与 Hook 相关的研究仅用于学习、兼容性分析与安全测试，请在合法合规的前提下使用。
 
 <!-- 社交链接建议在 Profile 设置页的 Social accounts 里加，会显示在头像下方，不必写进 README
      推荐顺序：Blog / Bilibili / 知乎 / X / 掘金，选 2–3 个常用的即可 -->
@@ -64,7 +60,7 @@
 
 ### 🧭 [LocationByWework](https://github.com/mendaclty/LocationByWework)
 
-> 基于 LSPosed 的 Android 定位链路调试模块：同时覆盖系统 `LocationManager` 与腾讯定位 SDK 双通道，处理 NMEA 语句、mock 标记与 GCJ-02 / WGS-84 坐标一致性。
+> 企业微信改定位打卡助手，基于 LSPosed 的 Android 定位链路调试模块：同时覆盖系统 `LocationManager` 与腾讯定位 SDK 双通道，处理 NMEA 语句、mock 标记与 GCJ-02 / WGS-84 坐标一致性。
 >
 > `Java` · `Xposed / LSPosed` · `Android` · `GPL-3.0`
 
